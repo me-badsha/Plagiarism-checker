@@ -26,8 +26,8 @@ pip3 install -r requirements.txt
 To run this code you need to have your textual document in your project directory with extension **.txt** and then when you run the script, it will automatically loads all the document with that extension and then compute the similarity between them just as shown below;
 
 ```bash
-$-> cd Plagiarism-checker
-$ Plagiarism-checker-Python-> python3 acode.py
+
+$ Plagiarism-checker-> python3 acode.py
 
 ```
 # How to check

@@ -1,7 +1,5 @@
 # Plagiarism-checker
 
-# How it's work
-First of all you have to pest your word in folder and save it.
 
 ## Getting started
 
@@ -32,3 +30,6 @@ $-> cd Plagiarism-checker
 $ Plagiarism-checker-Python-> python3 acode.py
 
 ```
+# How to check
+First of all you have to pest your word in a 3 file, and save it. you can see you have many file in Plagiarism-checker folder.
+then run it.
